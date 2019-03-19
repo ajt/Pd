@@ -1,6 +1,5 @@
-# Pd
-Tutorials and Patches for Pure Data
 
+    Tutorials and patches for
 
                                               dP            dP            
                                               88            88            
